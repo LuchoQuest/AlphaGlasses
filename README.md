@@ -4,9 +4,9 @@
 
 _El proceso de desarrollo del prototipo se ha dividido en las siguientes etapas:_
 
-_1. Ingeniería Inversa del Diseño Original: Se lleva a cabo un análisis exhaustivo del video disponible en internet para comprender el diseño y las funcionalidades del dispositivo original de smart glasses._
+_1. Ingeniería Inversa del Diseño Original: Se lleva a cabo un análisis exhaustivo de lo disponible en internet._
 
-_2. Desarrollo del Prototipo: Utilizando los conocimientos adquiridos durante la ingeniería inversa, se procede al diseño y desarrollo del prototipo mejorado de las smart glasses. Se incorporan mejoras en áreas clave, como la ergonomía, la eficiencia energética, la funcionalidad y la conectividad._
+_2. Desarrollo del Prototipo: Utilizando los conocimientos adquiridos durante la ingeniería inversa, se procede al diseño y desarrollo del prototipo mejorado. Se incorporan mejoras en áreas clave, como la ergonomía, la eficiencia energética, la funcionalidad y la conectividad._
 
 _3. Selección de Componentes: Se eligen cuidadosamente los componentes necesarios para el prototipo, asegurando que cumplan con los requisitos de calidad y rendimiento establecidos durante el proceso de diseño._
 
