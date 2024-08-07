@@ -64,7 +64,7 @@ _Requerimiento para utilizar el modelado_
 
 - Pagina de bienvenida:
 
-![image](https://github.com/LuchoQuest/AlphaGlasses/blob/602e14cc8b88b40a961add456bd19ce913626193/Imagenes/Spash.jpeg)
+![image](https://github.com/LuchoQuest/AlphaGlasses/blob/214e982b04c058bb738bb0e1656c5c428a512f66/Imagenes/Splash.jpeg)
 - Dispositivos conectados:
 
 ![image](https://github.com/LuchoQuest/AlphaGlasses/blob/602e14cc8b88b40a961add456bd19ce913626193/Imagenes/Conectar.jpeg)
