@@ -23,8 +23,6 @@ _contenido del proyecto_
 
 * [Arduino Files](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Arduino%20Files) - Códigos de Arduino para la placa utilizados en el proyecto.
 * [Smart-Glass-master - V4.1](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Smart-Glass-master%20-%20V4.1) - Código ultima version de la aplicacion
-* [Smart-Glass-master](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Smart-Glass-master) - Código primera version de la aplicacion
-
 
 ### Instalación 🔧
 
@@ -62,14 +60,18 @@ _Requerimiento para utilizar el modelado_
 
 ![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/f250db64-e0fd-4b07-94ae-27138f0a41da)
 
-### Informacion adicional 📄
+### Fotos de la aplicacion 📄
 
-_QR para descargar el APK del proyecto_
+- Pagina de bienvenida:
 
-_Requerimiento para utilizar el apk_
-* Bluetooth mínimo versión 2.0+EDR
-* Accesibilidad de permisos (Bluetooth)
-* Android minimo version 8.0 OREO
+![image](https://github.com/LuchoQuest/AlphaGlasses/blob/602e14cc8b88b40a961add456bd19ce913626193/Imagenes/Spash.jpeg)
+- Dispositivos conectados:
+
+![image](https://github.com/LuchoQuest/AlphaGlasses/blob/602e14cc8b88b40a961add456bd19ce913626193/Imagenes/Conectar.jpeg)
+- Pagina Principal:
+
+![image](https://github.com/LuchoQuest/AlphaGlasses/blob/602e14cc8b88b40a961add456bd19ce913626193/Imagenes/Principal.jpeg)
+  
 
 
 
